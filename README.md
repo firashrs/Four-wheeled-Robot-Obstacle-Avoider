@@ -4,6 +4,6 @@ The goal is to give an <b>autonomous four-wheeled robot</b> the ability to detec
 An <b>Ultrasonic sensor</b> was used to detect obstacles.</p>
 
 The repository contains <b>three files</b>: for <b>testing the motors</b>, for <b>testing the ultrasonic sensor</b>, and a main file containing the actual <b>code for the autonomous robot</b>. 
-
-![alt text](https://github.com/firashrs/Four-wheeled-Robot-Obstacle-Avoider/blob/main/4wheeledRobot.jpeg)
-
+<p align="center">
+<img src="4wheeledRobot.jpeg" alt="drawing" width="500" align="center"/>
+</p>
